@@ -431,7 +431,7 @@ function main(config){
 		};
 
 		// Put it in the save link box!
-		var link = "http://www.rafaelviana.com.br/eleicao/sandbox?m="+uri;
+		var link = "https://evoluchico.github.io/eleicao/sandbox?m="+uri;
 		var savelink = document.getElementById("savelink");
 		savelink.value = "salvando...";
 		setTimeout(function(){
